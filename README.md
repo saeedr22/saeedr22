@@ -1,6 +1,6 @@
 ### Hi there, I'm Saeed Rezaei
 
-- 🔭 I’m currently working on my personal android project.
+- 🔭 I’m currently working on my personal project.
 - 🌱 I’m currently improve C# skill.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
