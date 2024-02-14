@@ -1,9 +1,9 @@
 ### Hi there, I'm Saeed Rezaei
 
 - 🔭 I’m currently working on my personal project.
-- 🌱 I’m currently improve C# skill.
+- 🌱 I am currently improving the use of Microservice.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Professional use of Microservice
+- 🥅 2024 Goals: Professional use of Microservice
 
 <!--
 <a href="https://github.com/saeedr22">
